@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VrydaghsHwk7</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="slash">Splash Screen Image</string>
+    <string name="button1">Manage Assignments</string>
+
+</resources>

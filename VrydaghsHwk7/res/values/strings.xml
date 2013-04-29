@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?> <resources>
+    <string name="app_name">VrydaghsHwk7</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="slash">Splash Screen Image</string>
+    <string name="button1">Configure preferences</string>
+    <string name="button2">Retieve assignment list from server</string>
+    <string name="button3">Manage Assignments</string>
+    <string name="emailident">The email address identifier</string>
+    <string name="enterurl">The home base server URL</string>
+    <string name="savesetting">Save Settings</string>
+    <string name="savingtext">Refreshing Job List</string>
+
+</resources>
